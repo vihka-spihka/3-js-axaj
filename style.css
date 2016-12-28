@@ -1,0 +1,15 @@
+.siteBody__nativeXHR {
+	background-color: blue;
+}
+
+.siteBody__fetch {
+	background-color: red;
+}
+
+.siteBody__JSONP {}
+
+.siteBody__jQuery-Ajax {}
+
+.siteBody__jQuery-get {}
+
+.siteBody__jQuery-post {}
