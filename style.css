@@ -1,3 +1,12 @@
+.way__title {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.siteBody__description {
+	font-weight: 600;
+}
+
 .siteBody__nativeXHR {
 	background-color: blue;
 }
@@ -6,10 +15,18 @@
 	background-color: red;
 }
 
-.siteBody__JSONP {}
+.siteBody__JSONP {
+  background-color: yellow;
+}
 
-.siteBody__jQuery-Ajax {}
+.siteBody__jQuery-Ajax {
+  background-color: pink;
+}
 
-.siteBody__jQuery-get {}
+.siteBody__jQuery-get {
+  background-color: green;
+}
 
-.siteBody__jQuery-post {}
+.siteBody__jQuery-post {
+  background-color: purple;
+}
